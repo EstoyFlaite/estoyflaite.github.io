@@ -1,7 +1,9 @@
 PS4 Links:
 
-2.1.2 : https://estoyflaite.github.io/PS4%20Hosts/AutoJailbreak%20Hosts/GoldHen%20v2.1.2%20PS4%209.00%20/
-2.2.2 : https://estoyflaite.github.io/PS4%20Hosts/AutoJailbreak%20Hosts/GoldHen%20v2.2.2%20PS4%209.00%20/
+2.1.2 : https://estoyflaite.github.io/PS4%20Hosts/AutoJailbreak%20Hosts/GoldHen%20v2.1.2%20PS4%209.00/
+
+2.2.2 : https://estoyflaite.github.io/PS4%20Hosts/AutoJailbreak%20Hosts/GoldHen%20v2.2.2%20PS4%209.00/
+
 2.3b2 : https://estoyflaite.github.io/PS4%20Hosts/AutoJailbreak%20Hosts/GoldHen%20v2.3b2%20PS4%209.00%20[Temporary,%20unstable,%20trash]/
 
 
