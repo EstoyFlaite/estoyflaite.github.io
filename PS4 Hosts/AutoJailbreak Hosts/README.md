@@ -9,7 +9,7 @@ https://estoyflaite.github.io/PS4%20Hosts/AutoJailbreak%20Hosts/9.00%20Hosts/
 
 
 Bin2js instructions (To update GoldHen payload)
-
+-
 
 
 Put the .bin payload into "bin2js.exe", then edit the .js
